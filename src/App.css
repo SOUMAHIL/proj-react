@@ -36,3 +36,19 @@
     transform: rotate(360deg);
   }
 }
+.listflex{
+  display: flex;justify-content: center;
+}
+img{
+  width: 12%;
+}
+body{
+  
+}
+h1, h2, h4, h5 {
+  border-bottom: 1px soilid #ccc;
+  color: #3f51b5;
+  padding-bottom: 8px;
+  text-decoration: underline;
+}
+
